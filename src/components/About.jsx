@@ -12,7 +12,7 @@ export default function About() {
               <img
                 src={artist.aboutImage}
                 alt={`Retrato de ${artist.name}`}
-                className="h-[420px] sm:h-[480px] md:h-[560px] w-full object-cover grayscale contrast-110"
+                className="h-[420px] sm:h-[480px] md:h-[560px] w-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
             </div>

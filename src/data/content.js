@@ -6,20 +6,20 @@ export const artist = {
   name: "JOAO PASCOLAT",
   country: "BR",
   genres: "House / Tech House / Deep House",
-  tagline: "Groove constante, leitura de pista e uma seleção que não solta a mão.",
+  tagline: "Versatilidade e controle de pista: conectando o público do House ao Funk.",
   whatsapp: "https://wa.me/5511999999999",
   email: "contato@joaopascolat.com",
   heroImage:
-    "https://images.unsplash.com/photo-1571266028243-e4733b0f0bb0?q=80&w=2000&auto=format&fit=crop",
+    "/images/multidao3.jpg",
   aboutImage:
-    "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?q=80&w=1400&auto=format&fit=crop",
+    "/images/bio_foto.jpg",
   bio: [
-    "João Pascolat constrói sets pensados para a curva da pista: entradas discretas, picos calculados e transições que não se notam — apenas se sentem.",
-    "Com raízes em House e Tech House e incursões frequentes em Deep House, sua seleção equilibra peso de kick, groove de baixo e atmosfera, sempre lendo o público em tempo real.",
-    "Já compartilhou cabine com nomes da cena local e tocou em festas de clube e eventos open air, construindo uma reputação de sets consistentes do início ao fim — sem atalhos, sem pressa.",
+    " Natural de Jaú (SP), JOAO PASCOLAT (BR) é um DJ de 19 anos que traz consigo uma paixão pela música que despertou desde cedo. O que começou na infância hoje se traduz em uma presença de palco focada na energia e na versatilidade, representando a nova geração com técnica e autoridade.",
+    "Seu trabalho é definido pela capacidade de ler a pista e adaptar o som ao momento, transitando com fluidez entre as vertentes da House Music — como Deep House, Tech House e Tech Funk — e a batida explosiva do Funk Mandelão. Com uma mixagem dinâmica e curadoria rigorosa, Pascolat constrói sets de progressão constante, garantindo que o público permaneça totalmente conectado.",
+    "Seja em apresentações de música eletrônica ou em eventos mistos, o objetivo é um só: manter o groove constante e a pista em sintonia, do primeiro ao último beat.",
   ],
 };
-
+ 
 export const socials = [
   { label: "Instagram", href: "https://instagram.com/" },
   { label: "Resident Advisor", href: "https://ra.co/" },
@@ -59,16 +59,16 @@ export const sets = [
 ];
 
 export const upcomingGigs = [
-  { date: "2026-07-12", event: "Sub.Club Night", place: "São Paulo, SP", status: "Confirmado" },
-  { date: "2026-08-02", event: "Terra Open Air", place: "Florianópolis, SC", status: "Confirmado" },
-  { date: "2026-08-23", event: "Concrete Sessions", place: "Curitiba, PR", status: "A confirmar" },
+  { date: "2026-07-10", event: "Centro Acadêmico FIJ", place: "Jaú, SP", status: "Confirmado" },
+  { date: "??-??-????", event: "???", place: "Jaú, SP", status: "A Confirmar" },
 ];
 
 export const pastGigs = [
-  { date: "2026-05-17", event: "Fechado no Porão", place: "São Paulo, SP", status: "Realizado" },
-  { date: "2026-04-26", event: "Baixo Continuo Fest", place: "Rio de Janeiro, RJ", status: "Realizado" },
-  { date: "2026-03-08", event: "Warehouse 9", place: "Campinas, SP", status: "Realizado" },
-  { date: "2026-02-14", event: "Pré-Carnaval Underground", place: "São Paulo, SP", status: "Realizado" },
+  { date: "2026-05-17", event: "Baco Bar esquenta COPA com brasilidades", place: "Jaú, SP", status: "Realizado" },
+  { date: "2026-05-16", event: "Baco Bar Tech House", place: "Jaú, SP", status: "Realizado" },
+  { date: "2026-05-10", event: "Aniversário privado Iuri17", place: "Jaú, SP", status: "Realizado" },
+  { date: "2026-04-25", event: "Riverside anos 2000", place: "Jaú, SP", status: "Realizado" },
+  { date: "2026-03-20", event: "Baco Bar", place: "Jaú, SP", status: "Realizado" },
 ];
 
 export const gallery = [
