@@ -12,7 +12,7 @@ export default function Hero() {
       <img
         src={artist.heroImage}
         alt="Cabine de DJ na penumbra"
-        className="absolute inset-0 h-full w-full object-cover"
+        className="absolute inset-0 h-full w-full object-cover grayscale"
       />
       {/* Dark overlay for legibility */}
       <div className="absolute inset-0 bg-black/60" />
