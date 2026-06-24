@@ -8,11 +8,11 @@ export default function About() {
         <div className="grid grid-cols-1 gap-10 md:grid-cols-2 md:gap-16 items-center">
           {/* Image */}
           <div className="relative order-1">
-            <div className="relative overflow-hidden rounded-sm border border-zinc-800">
+            <div className="relative overflow-hidden rounded-lg border border-zinc-800">
               <img
                 src={artist.aboutImage}
                 alt={`Retrato de ${artist.name}`}
-                className="h-[420px] sm:h-[480px] md:h-[560px] w-full object-cover"
+                className="h-[420px] sm:h-[480px] md:h-[560px] w-full object-cover grayscale-[85%] contrast-95 brightness-105"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
             </div>
@@ -23,7 +23,7 @@ export default function About() {
             <span className="font-mono text-xs uppercase tracking-[0.3em] text-zinc-500">
               Bio
             </span>
-            <h2 className="font-display text-3xl sm:text-4xl text-ink mt-3 mb-2">
+            <h2 className="font-['Scaves'] text-3xl sm:text-4xl text-ink mt-3 mb-2">
               {artist.name}
             </h2>
             <p className="font-body text-sm text-zinc-400 mb-6">{artist.tagline}</p>

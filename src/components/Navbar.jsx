@@ -31,7 +31,7 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8 h-16">
         <a
           href="#top"
-          className="font-display text-lg tracking-wide text-ink"
+          className="font-['Scaves'] text-lg tracking-wide text-ink"
         >
           {artist.name}{" "}
           <span className="text-smoke text-sm align-middle">

@@ -23,7 +23,7 @@ export default function Hero() {
           Electronic Press Kit
         </span>
 
-        <h1 className="font-display leading-[0.95] text-ink text-balance text-[15vw] sm:text-[10vw] md:text-[7.5rem] lg:text-[8.5rem]">
+        <h1 className="font-['Scaves'] leading-[0.95] text-ink text-balance text-[11vw] sm:text-[7vw] md:text-[4.0rem] lg:text-[5.0rem]">
           {artist.name}
           <span className="block text-zinc-500 text-[8vw] sm:text-[5vw] md:text-5xl lg:text-6xl mt-1">
             ({artist.country})

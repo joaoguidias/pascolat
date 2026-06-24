@@ -26,6 +26,11 @@ export default {
         pulseLine: "pulseLine 1.2s ease-in-out infinite",
         fadeUp: "fadeUp 0.8s ease-out forwards",
       },
+      fontFamily: {
+        display: ["'Scaves'", "'Anton'", "sans-serif"],
+        body: ["'Inter'", "sans-serif"],
+        mono: ["'Space Mono'", "monospace"],
+      },
     },
   },
   plugins: [],

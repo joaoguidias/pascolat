@@ -3,7 +3,7 @@
 // ============================================================
 
 export const artist = {
-  name: "JOAO PASCOLAT",
+  name: "JOÄO PASCOLAT",
   country: "BR",
   genres: "House / Tech House / Deep House",
   tagline: "Versatilidade e controle de pista: conectando o público do House ao Funk.",
@@ -14,7 +14,7 @@ export const artist = {
   aboutImage:
     "/images/bio_foto.jpg",
   bio: [
-    " Natural de Jaú (SP), JOAO PASCOLAT (BR) é um DJ de 19 anos que traz consigo uma paixão pela música que despertou desde cedo. O que começou na infância hoje se traduz em uma presença de palco focada na energia e na versatilidade, representando a nova geração com técnica e autoridade.",
+    " Natural de Jaú (SP), JOÄO PASCOLAT (BR) é um DJ de 19 anos que traz consigo uma paixão pela música que despertou desde cedo. O que começou na infância hoje se traduz em uma presença de palco focada na energia e na versatilidade, representando a nova geração com técnica e autoridade.",
     "Seu trabalho é definido pela capacidade de ler a pista e adaptar o som ao momento, transitando com fluidez entre as vertentes da House Music — como Deep House, Tech House e Tech Funk — e a batida explosiva do Funk Mandelão. Com uma mixagem dinâmica e curadoria rigorosa, Pascolat constrói sets de progressão constante, garantindo que o público permaneça totalmente conectado.",
     "Seja em apresentações de música eletrônica ou em eventos mistos, o objetivo é um só: manter o groove constante e a pista em sintonia, do primeiro ao último beat.",
   ],
